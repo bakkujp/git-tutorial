@@ -12,7 +12,7 @@ $ git config --global user.email johndoe@example.com
 
 ## Fork A Repo on GitHub
 
-https://help.github.com/articles/fork-a-repo/
-https://guides.github.com/activities/forking/index.html
+- https://help.github.com/articles/fork-a-repo/
+- https://guides.github.com/activities/forking/index.html
 
 ## Git basic commands
